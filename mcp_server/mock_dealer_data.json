@@ -1,0 +1,260 @@
+{
+  "dealers": [
+    {
+      "dealer_id": "toyota-metro-manila-01",
+      "name": "Toyota Metro Manila",
+      "location": "EDSA, Quezon City, Metro Manila",
+      "contact": {
+        "phone": "+63 2 8123 4567",
+        "email": "sales@toyotametromanila.com.ph",
+        "website": "www.toyotametromanila.com.ph"
+      },
+      "operating_hours": "Monday to Saturday, 8:00 AM - 6:00 PM",
+      "usps": [
+        "10-year powertrain warranty on all new units",
+        "Same-day financing approval for pre-qualified buyers",
+        "Free first-year Periodic Maintenance Service (PMS)",
+        "Dedicated after-sales team with 24/7 roadside assistance",
+        "Largest Toyota inventory in Metro Manila"
+      ],
+      "inventory": [
+        {
+          "model": "Toyota Vios",
+          "variant": "1.3 XLE CVT",
+          "year": 2025,
+          "price_php": 798000,
+          "color_options": ["Super White", "Silver Metallic", "Attitude Black"],
+          "stock": 4,
+          "fuel_type": "Gasoline",
+          "transmission": "CVT"
+        },
+        {
+          "model": "Toyota Fortuner",
+          "variant": "2.4 G Diesel 4x2 AT",
+          "year": 2025,
+          "price_php": 1950000,
+          "color_options": ["Super White", "Bronze Mica Metallic", "Attitude Black"],
+          "stock": 2,
+          "fuel_type": "Diesel",
+          "transmission": "Automatic"
+        },
+        {
+          "model": "Toyota Innova",
+          "variant": "2.8 V Diesel AT",
+          "year": 2025,
+          "price_php": 1620000,
+          "color_options": ["Silver Metallic", "Super White", "Gray Metallic"],
+          "stock": 5,
+          "fuel_type": "Diesel",
+          "transmission": "Automatic"
+        },
+        {
+          "model": "Toyota Hilux",
+          "variant": "2.4 G DSL 4x2 AT",
+          "year": 2025,
+          "price_php": 1380000,
+          "color_options": ["White Pearl", "Attitude Black", "Red Mica"],
+          "stock": 3,
+          "fuel_type": "Diesel",
+          "transmission": "Automatic"
+        },
+        {
+          "model": "Toyota Yaris Cross",
+          "variant": "1.5 S HEV CVT",
+          "year": 2025,
+          "price_php": 1298000,
+          "color_options": ["Platinum White Pearl", "Emotional Red", "Gray Metallic"],
+          "stock": 1,
+          "fuel_type": "Hybrid",
+          "transmission": "CVT"
+        }
+      ],
+      "promotions": [
+        {
+          "promo_id": "promo-mm-001",
+          "title": "Zero Interest June",
+          "valid_from": "2026-06-01",
+          "valid_until": "2026-06-30",
+          "applicable_models": ["Toyota Vios", "Toyota Innova"],
+          "details": "0% interest for 24 months with minimum 30% down payment. No processing fee for applications submitted before June 30."
+        },
+        {
+          "promo_id": "promo-mm-002",
+          "title": "Free PMS Package",
+          "valid_from": "2026-06-01",
+          "valid_until": "2026-07-31",
+          "applicable_models": ["Toyota Fortuner", "Toyota Hilux", "Toyota Yaris Cross"],
+          "details": "Free 3-year or 45,000 km Periodic Maintenance Service package included with every purchase. Valued at PHP 18,000."
+        },
+        {
+          "promo_id": "promo-mm-003",
+          "title": "Trade-In Bonus",
+          "valid_from": "2026-06-15",
+          "valid_until": "2026-07-15",
+          "applicable_models": ["All models"],
+          "details": "Additional PHP 50,000 trade-in bonus on top of appraised value when you trade in any vehicle model year 2020 or newer."
+        }
+      ],
+      "reviews": [
+        {
+          "review_id": "rev-mm-001",
+          "author": "Juan D.",
+          "rating": 5,
+          "date": "2026-05-20",
+          "text": "Very fast processing — got my Vios approved in one afternoon. Staff were friendly and walked me through every step of the financing."
+        },
+        {
+          "review_id": "rev-mm-002",
+          "author": "Maria S.",
+          "rating": 4,
+          "date": "2026-05-10",
+          "text": "Good experience overall. The sales team was knowledgeable and not pushy. Waiting area could use an upgrade but the service was solid."
+        },
+        {
+          "review_id": "rev-mm-003",
+          "author": "Rodel C.",
+          "rating": 5,
+          "date": "2026-04-28",
+          "text": "Second car I've bought from this branch. They remembered me from my first purchase three years ago — that kind of relationship matters."
+        },
+        {
+          "review_id": "rev-mm-004",
+          "author": "Ana L.",
+          "rating": 3,
+          "date": "2026-04-15",
+          "text": "Unit I wanted (Fortuner in black) was out of stock and I had to wait two weeks. Would have appreciated more proactive updates from the team."
+        },
+        {
+          "review_id": "rev-mm-005",
+          "author": "Kevin M.",
+          "rating": 5,
+          "date": "2026-03-30",
+          "text": "The 10-year powertrain warranty sealed the deal for me. No other dealer in the area offers this. Highly recommended."
+        }
+      ]
+    },
+    {
+      "dealer_id": "toyota-cebu-south-02",
+      "name": "Toyota Cebu South",
+      "location": "South Road Properties, Cebu City, Cebu",
+      "contact": {
+        "phone": "+63 32 888 9900",
+        "email": "info@toyotacebusouth.com.ph",
+        "website": "www.toyotacebusouth.com.ph"
+      },
+      "operating_hours": "Monday to Sunday, 8:00 AM - 7:00 PM",
+      "usps": [
+        "Open 7 days a week including holidays",
+        "Fastest vehicle release in Cebu — 3 business days guaranteed",
+        "Bilingual sales team (English and Cebuano)",
+        "Exclusive Cebu-only hybrid test drive program",
+        "On-site insurance processing with partner providers"
+      ],
+      "inventory": [
+        {
+          "model": "Toyota Vios",
+          "variant": "1.3 Base MT",
+          "year": 2025,
+          "price_php": 718000,
+          "color_options": ["Super White", "Silver Metallic"],
+          "stock": 6,
+          "fuel_type": "Gasoline",
+          "transmission": "Manual"
+        },
+        {
+          "model": "Toyota Raize",
+          "variant": "1.0 Turbo CVT",
+          "year": 2025,
+          "price_php": 1028000,
+          "color_options": ["Platinum White Pearl", "Emotional Red", "Gray Metallic", "Blue"],
+          "stock": 3,
+          "fuel_type": "Gasoline",
+          "transmission": "CVT"
+        },
+        {
+          "model": "Toyota Yaris Cross",
+          "variant": "1.5 S HEV CVT",
+          "year": 2025,
+          "price_php": 1298000,
+          "color_options": ["Platinum White Pearl", "Emotional Red"],
+          "stock": 2,
+          "fuel_type": "Hybrid",
+          "transmission": "CVT"
+        },
+        {
+          "model": "Toyota Fortuner",
+          "variant": "2.8 LTD Diesel 4x4 AT",
+          "year": 2025,
+          "price_php": 2650000,
+          "color_options": ["Super White", "Attitude Black"],
+          "stock": 1,
+          "fuel_type": "Diesel",
+          "transmission": "Automatic"
+        }
+      ],
+      "promotions": [
+        {
+          "promo_id": "promo-cs-001",
+          "title": "Hybrid Test Drive Program",
+          "valid_from": "2026-06-01",
+          "valid_until": "2026-08-31",
+          "applicable_models": ["Toyota Yaris Cross"],
+          "details": "Book a free 30-minute Yaris Cross hybrid test drive on our Cebu SRP test route. Participants receive a PHP 10,000 discount voucher valid on any new unit purchase."
+        },
+        {
+          "promo_id": "promo-cs-002",
+          "title": "Fast Release Guarantee",
+          "valid_from": "2026-06-01",
+          "valid_until": "2026-12-31",
+          "applicable_models": ["All models"],
+          "details": "Guaranteed vehicle release within 3 business days of full payment clearance. If release is delayed beyond 3 days, receive a free 1-year extended warranty."
+        },
+        {
+          "promo_id": "promo-cs-003",
+          "title": "All-In Down Payment Promo",
+          "valid_from": "2026-06-10",
+          "valid_until": "2026-06-30",
+          "applicable_models": ["Toyota Raize", "Toyota Vios"],
+          "details": "All chattel mortgage fees, insurance first year, and LTO registration included in down payment. No hidden charges. Valid for in-house financing only."
+        }
+      ],
+      "reviews": [
+        {
+          "review_id": "rev-cs-001",
+          "author": "Sheila T.",
+          "rating": 5,
+          "date": "2026-05-25",
+          "text": "Released my Raize in 2 days — faster than they promised. The all-in down payment promo meant no surprise charges at release. Perfect experience."
+        },
+        {
+          "review_id": "rev-cs-002",
+          "author": "Noel B.",
+          "rating": 4,
+          "date": "2026-05-12",
+          "text": "Nice that they're open on Sundays. Came in on a Sunday morning with no crowds. Sales rep spoke Cebuano which made the whole thing more comfortable."
+        },
+        {
+          "review_id": "rev-cs-003",
+          "author": "Carla G.",
+          "rating": 5,
+          "date": "2026-04-20",
+          "text": "Did the hybrid test drive program for the Yaris Cross and ended up buying one. The test route actually showed off the EV mode properly — not just a parking lot loop."
+        },
+        {
+          "review_id": "rev-cs-004",
+          "author": "Dennis R.",
+          "rating": 2,
+          "date": "2026-04-05",
+          "text": "Sales team was friendly but the unit I reserved had a scratch on delivery. Took another 5 days to get a replacement. Process after the problem was good but the initial issue shouldn't have happened."
+        },
+        {
+          "review_id": "rev-cs-005",
+          "author": "Liza F.",
+          "rating": 5,
+          "date": "2026-03-18",
+          "text": "On-site insurance processing saved me a full day of running around. Everything was done in one branch visit. Will recommend to family."
+        }
+      ]
+    }
+  ]
+}
